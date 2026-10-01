@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **rihabegum.dev@gmail.com**
+- 📫 How to reach me **begumriha673@gmail.com**
 
 - ⚡ Fun fact **I love learning new technologies**
 
